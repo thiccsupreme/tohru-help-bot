@@ -1,0 +1,17 @@
+{
+  "name": "tohru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tohru.js",
+  "scripts": {
+    "test": "node .",
+    "start": "node ."
+  },
+  "author": "thiccsupreme",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
