@@ -1,10 +1,16 @@
 # Tohru AIO Helper Bot
 ____
-[Add this bot to your server](https://discord.com/api/oauth2/authorize?client_id=723381708292096052&permissions=8&scope=bot)
-
-## How to use:
-> Once this bot is in your Discord server, to access all the commands, type `t!help` to pull up the list of commands!
 
 **Disclaimer**: This bot is not associated with Tohru AIO. This was a quarantine induced side project ;)
+
+## How to Install + Run:
+
+> - Downlaod the ZIP file with all the code, or `git clone https://github.com/thiccsupreme/tohru-help-bot.git`
+> - Open up `config.json` and input your Discord Bot Token
+> - Navigate your way to the directory in terminal
+> - `node .` will initiate the bot
+
+## How to use:
+>>> Once this bot is in your Discord server, to access all the commands, type `t!help` to pull up the list of commands!
 
 ###### Made by [thiccsupreme](https://twitter.com/footlockerru)
