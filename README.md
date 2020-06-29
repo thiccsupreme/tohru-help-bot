@@ -11,6 +11,6 @@ ____
 > - `node .` will initiate the bot
 
 ## How to use:
->>> Once this bot is in your Discord server, to access all the commands, type `t!help` to pull up the list of commands!
+> Once this bot is in your Discord server, to access all the commands, type `t!help` to pull up the list of commands!
 
 ###### Made by [thiccsupreme](https://twitter.com/footlockerru)
