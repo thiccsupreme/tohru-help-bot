@@ -1,4 +1,4 @@
-# Tohru AIO Helper Bot
+# Tohru AIO Helper Bot (Outdated) 
 ____
 
 **Disclaimer**: This bot is not associated with Tohru AIO. This was a quarantine induced side project ;)
